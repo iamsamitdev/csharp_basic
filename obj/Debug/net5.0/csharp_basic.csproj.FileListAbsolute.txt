@@ -1,0 +1,16 @@
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.exe
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.deps.json
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.runtimeconfig.json
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.runtimeconfig.dev.json
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.dll
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\ref\csharp_basic.dll
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\bin\Debug\net5.0\csharp_basic.pdb
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.csproj.AssemblyReference.cache
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.GeneratedMSBuildEditorConfig.editorconfig
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.AssemblyInfoInputs.cache
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.AssemblyInfo.cs
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.csproj.CoreCompileInputs.cache
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.dll
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\ref\csharp_basic.dll
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.pdb
+G:\TrainingWorkshop\Dotnet5Angular12\csharp_basic\obj\Debug\net5.0\csharp_basic.genruntimeconfig.cache

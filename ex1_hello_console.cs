@@ -11,13 +11,14 @@ namespace csharp_basic
             Console.WriteLine("สวัสดีซีชาร์ปโปรแกรมมิ่ง");
             Console.WriteLine(2+3);
             Console.WriteLine(2*3);
-
+            
             Console.Write("สวัสดี");
-            Console.Write("วันเสาร์\n\n\n\n");
-
+            Console.Write("วันเสาร์\n");
+            
             Console.WriteLine("\tยินดีต้อนรับ"+ "ทุกท่านเข้าสู่การเรียนดอนเน็ต");
-
+            
             Console.WriteLine("Hello Message\a");
+            
         }
     }
 }
